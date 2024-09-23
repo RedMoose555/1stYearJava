@@ -1,0 +1,6 @@
+Americano,1.50
+Cappucino,2.00
+Latte,2.30
+Mocha,3.50
+Frappucino,4.50
+Espresso,2.50

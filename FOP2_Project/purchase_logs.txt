@@ -1,0 +1,104 @@
+Date/Time: 21/04/24 11:18:36
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 1.5
+Tip: 1.0
+===============================================
+Date/Time: 21/04/24 11:59:53
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 1.5
+Tip: 1.0
+===============================================
+Date/Time: 21/04/24 12:00:02
+Item: Cappucino
+Price: 2.0
+Payment Method: Mastercard
+Tip: 0.0
+===============================================
+Date/Time: 21/04/24 12:00:35
+Item: Cappucino
+Price: 2.0
+Payment Method: Visa
+Tip: 0.0
+===============================================
+Date/Time: 21/04/24 12:09:30
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 0.5
+Tip: 0.0
+===============================================
+Date/Time: 21/04/24 12:11:07
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 1.5
+Tip: 1.0
+===============================================
+Date/Time: 21/04/24 12:11:19
+Item: Americano
+Price: 1.5
+Payment Method: Mastercard
+Tip: 1.0
+===============================================
+Date/Time: 21/04/24 12:11:32
+Item: Cappucino
+Price: 2.0
+Payment Method: Visa
+Tip: 1.0
+===============================================
+Date/Time: 22/04/24 13:49:36
+Item: Cappucino
+Price: 2.0
+Payment Method: CASH
+Change: 0.0
+Tip: 0.0
+===============================================
+Date/Time: 22/04/24 13:51:06
+Item: Cappucino
+Price: 2.0
+Payment Method: Mastercard
+Tip: 0.0
+===============================================
+Date/Time: 22/04/24 14:43:09
+Item: Cappucino
+Price: 2.0
+Payment Method: CASH
+Change: 8.0
+Tip: 2.0
+===============================================
+Date/Time: 22/04/24 14:43:39
+Item: Cappucino
+Price: 2.0
+Payment Method: Visa
+Tip: 200.0
+===============================================
+Date/Time: 22/04/24 15:22:42
+Item: Cappucino
+Price: 2.0
+Payment Method: Visa
+Tip: 0.0
+===============================================
+Date/Time: 22/04/24 15:23:28
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 0.5
+Tip: 0.0
+===============================================
+Date/Time: 28/07/24 10:12:42
+Item: Americano
+Price: 1.5
+Payment Method: CASH
+Change: 0.5
+Tip: 0.0
+===============================================
+Date/Time: 28/07/24 10:12:54
+Item: Cappucino
+Price: 2.0
+Payment Method: Visa
+Tip: 0.0
+===============================================
